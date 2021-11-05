@@ -1,0 +1,9 @@
+body {
+  font-family: poppins;
+}
+
+@media (min-width: 768px) {
+  .cek-domain {
+    width: 50%;
+  }
+}
