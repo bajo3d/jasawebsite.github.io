@@ -7,3 +7,15 @@ body {
     width: 50%;
   }
 }
+
+.img-contact {
+  background-image: url(img/contact.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.tombol {
+  width: 250px;
+}
